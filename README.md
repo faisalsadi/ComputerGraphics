@@ -26,5 +26,5 @@ covering a lot of computer graphics and math topics like : shading , transformat
 
 ## results :
 
-https://github.com/faisalsadi/ComputerGraphics/issues/1#issue-1356317162
+![translateworldrotatelocal](https://user-images.githubusercontent.com/31912809/187545011-d6bc288c-7623-4433-91d5-0fd82fbb9a9b.png)
 
